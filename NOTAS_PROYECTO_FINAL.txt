@@ -1,0 +1,27 @@
+VERSION FINAL DEL PROYECTO:
+
+NOMBRE : erpFinal
+
+En el archivo "erpFinal(18NOV).rar" está todo el proyecto. (Tuve que cambiarle el nombre porque comenzó a darme problemas
+en mi máquina con demasiadas versiones).
+
+El proyecto consta de tres packages: ErpFinal, conductores y BD.
+Además estan las carpetas con los íconos y gráficos usados: Imagenes, ImagenesMenu y source
+
+En el archivo "DEFINICION DE bd1.sql"  está toda la definicion de la Base de Datos.
+
+Para correr el sistema:
+
+1. Bajar todo el proyecto a NetBeans con el nombre "erpFinal"(sin comillas);
+2. Crear la base de datos con el nombre "bd1";
+3. Crear las tablas según lo descrito en el documento de DEFINICION. Hay que estar pendiente de
+   colocar los nombres de los componentes, tablas y campos igual como están en el documento.
+   Igualmente los atributos (tipos de campo, longitudes) y definiciones de "default".
+4. Instalar las librerias .jar de:
+	a. SQL (mysql-connector)
+	b. JCalendar (jcalendar - 1.4.jar)
+	c. Absolute Layout
+5. Hay que tener el XAMPP Control Panel activo.
+
+Por favor, instálenlo y aseguren de que funcione bien para tener vuestras maquinas de respaldo
+para las presentaciones.
